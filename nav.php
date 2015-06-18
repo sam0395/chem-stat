@@ -12,7 +12,7 @@
     <div id="navbar" class="collapse navbar-collapse navbar-right">
       <ul class="nav navbar-nav">
         <li><a href="index.php">Home</a></li>
-        <li><a data-scroll href="#products">Products</a></li>
+        <li><a href="products.php">Products</a></li>
         <li><a href="services.php">Services</a></li>
         <li><a href="company.php">Company</a></li>
         <li><a href="contact.php">Contact</a></li>
