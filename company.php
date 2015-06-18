@@ -85,70 +85,75 @@
 
     <hr>
 
-    <!-- Title -->
-    <div class="row">
-      <div class="col-lg-12">
-        <h3>Our Staff</h3>
-      </div>
-    </div>
-    <!-- /.row -->
+    
 
     <!-- Page Features -->
-    <div class="row text-center">
+      
+       <div class="container">
 
-      <div class="col-md-12 col-sm-24 hero-feature">
-        <div class="thumbnail">
-          
-          <div class="caption">
-            <h3>William Cusik</h3>
-            <p></p>
-            <p>
-             <a href="#" class="btn btn-default">More Info</a>
-           </p>
-         </div>
-       </div>
-     </div>
+        <!-- Heading Row -->
+        <div class="row">
+            <div class="col-md-8">
+                <img class="img-responsive img-rounded" src="images/building.png" alt="">
+            </div>
+            <!-- /.col-md-8 -->
+            <div class="col-md-4">
+                <h1>We Are Chem-Stat!</h1>
+                <p>Each employee at Chem-Stat makes customer service their top priority. The Chem-Stat name is constantly being built up through relations with many different private and public industries. It is our goal, here at Chem-Stat, to make sure the company is held high by all previous and future clients!</p>
+                <a class="btn btn-primary btn-lg" href="contact.php">Contact Us!</a>
+            </div>
+            <!-- /.col-md-4 -->
+        </div>
+        <!-- /.row -->
 
-     <div class="col-md-12 col-sm-24 hero-feature">
-      <div class="thumbnail">
-        
-        <div class="caption">
-          <h3>Tim Belcastro</h3>
-          <p></p>
-          <p>
-           <a href="#" class="btn btn-default">More Info</a>
-         </p>
-       </div>
-     </div>
-   </div>
+        <hr>
 
-   <div class="col-md-12 col-sm-24 hero-feature">
-    <div class="thumbnail">
-     
-      <div class="caption">
-        <h3>Lori Cusik</h3>
-        <p></p>
-        <p>
-         <a href="#" class="btn btn-default">More Info</a>
-       </p>
-     </div>
-   </div>
- </div>
+        <!-- Call to Action Well -->
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="well text-center">
+                   "Our goal is to provide our customers a service that is second to none within the chemical supply business."
+                </div>
+            </div>
+            <!-- /.col-lg-12 -->
+        </div>
+        <!-- /.row -->
 
- <div class="col-md-12 col-sm-24 hero-feature">
-  <div class="thumbnail">
-    
-    <div class="caption">
-      <h3>John Reams</h3>
-      <p></p>
-      <p>
-        <a href="#" class="btn btn-default">More Info</a>
-      </p>
-    </div>
-  </div>
-</div>
+        <!-- Content Row -->
+        <div class="row">
+            <div class="col-md-6">
+                <h2>Dynamic Solutions</h2>
+                <p>Here at Chem-Stat, we provide solutions for: </p>
+                <p>
+                  Woodworking, 
+                  Metal Fabricating,
 
-</div>
+                  Plating and Anodizing, 
+                  Circuit Board Manufacturing,
+
+                  Optical Industry, 
+                  Heating and Colling,
+
+                  General Manufacruting, 
+                  General Maintenance,
+
+                  Service Industry
+                  
+                </p>
+               
+            </div>
+            <!-- /.col-md-4 -->
+           
+            <!-- /.col-md-4 -->
+            <div class="col-md-6">
+                <h2>Our Thanks to YOU!</h2>
+                <p>Thank you for choosing Chem-Stat as your supplier. We appreciate your business and your loyalty and look forward to a growing business relationship. If there are products that you are interested in that are not listed, please call and our customer service department will provide you with all the information needed for you purchase. We believe in prompt, courteous, and professional service.</p>
+               
+            </div>
+            <!-- /.col-md-4 -->
+        </div>
+        <br />
+    <!-- /page -->
 </div>
 </div>
 

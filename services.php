@@ -40,24 +40,62 @@
     <!-- Jumbotron Header -->
     <header class="jumbotron hero-spacer">
       <h1>We Guarentee Quality Service</h1>
-      <p>Chem-Stat, Inc., has been in business in the Tampa Bay area since 1991. Throughout the years our company has developed a reputation for quality service and customer satisfaction. It is this reputation that is offered to each and every customer with which we do business. We offer two day delivery service locally, and in most cases we can accommodate our customer within the next day at competitive prices. </p>
+      <p>Many services that Chem-Stat provides are listed below. It is our goal to fit all company needs, and we will try our hardest to bring your request to life. </p>
       
     </p>
   </header>
 
-  <hr>
-
-  <!-- Title -->
-  <div class="row">
-    <div class="col-lg-12">
-      <h3>Our Staff</h3>
-    </div>
-  </div>
-  <!-- /.row -->
-
+  
   <!-- Page Features -->
   <div class="row text-center">
+      <div class="container">
 
+        <hr>
+
+        <div class="row">
+            <div class="col-sm-12">
+               
+                <p><h3>Hazardous Waste Management</h3></p>  
+                <p><h3>Environmental Regualtions</h3></p> 
+                <p><h3>Safety/DOT Regulations</h3></p> 
+                <p><h3>Formulations and Blending</h3></p> 
+                
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+
+        <div class="row">
+            <div class="col-sm-3">
+              <img class="img-circle img-responsive img-center" src="images/barrel.jpg" alt="">
+                <h2>Private Labeling</h2>
+                
+            </div>
+            <div class="col-sm-3">
+                <img class="img-circle img-responsive img-center" src="images/boxes.jpg" alt="">
+                <h2>Specialized Packaging</h2>
+                
+            </div>
+            <div class="col-sm-3">
+                <img class="img-circle img-responsive img-center" src="images/bags.jpg" alt="">
+                <h2>Food/Reagent Grade Products</h2>
+                
+            </div>
+            <div class="col-sm-3">
+                <img class="img-circle img-responsive img-center" src="images/truck.jpg" alt="">
+                <h2>We Deliver!</h2>
+               
+            </div>
+
+        </div>
+        <!-- /.row -->
+    <br />
+        
+
+       
+
+    </div>
    
   </div>
   

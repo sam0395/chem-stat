@@ -54,12 +54,12 @@
 			</div>
 
 			<div class="col-md-3 col-sm-6">
-				
-				
+				<br />
+				<img style = "border-radius: 20px;" src="images/ripenLogo.png" alt="ripenLogo">
 				<div class="caption">
+					<br />
+					<p>Designed By<br />&copy;2015 Ripen Studios</p>
 					
-					<p></p>
-					<p>
 						
 					</p>
 				</div>

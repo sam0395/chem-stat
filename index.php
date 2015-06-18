@@ -10,7 +10,7 @@
 	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-	
+
 	<script type="text/javascript" src="dist/js/bootstrap.js"></script>
 	<script src="dist/js/smooth-scroll.min.js"></script>
 
@@ -19,23 +19,23 @@
 </head>
 
 <body>
-	
+
 	<?php
 	include('nav.php');
 	?>
 
 	<div id="home" class="col-md-12 header-image" id="main">
-		
+
 	</div>
 
 	<div id="#about">
-		
+
 		<div class="container">
 
 			<!-- Jumbotron Header -->
 			<header class="jumbotron hero-spacer">
 				<h1>Our Mission is Simple:</h1>
-				<p>Our focus at Chem-Stat, Inc., is You, the customer. Our goal is to provide a service that is second to none within the chemical supply business. We are committed to meeting your industrial, laboratory, and scientific needs by offering competitive prices, quality service and technical support. We strive for our customers and vendors to recognize Chem-Stat as offering quality service, expertise and solutions for your business now and into the future. </p>
+				<p>Our focus at Chem-Stat, Inc. is You, the customer. Our goal is to provide a service that is second to none within the chemical supply business. We are committed to meeting your industrial, laboratory, and scientific needs by offering competitive prices, quality service and technical support. We strive for our customers and vendors to recognize Chem-Stat as offering quality service, expertise and solutions for your business now and into the future. </p>
 				<p><a class="btn btn-primary btn-large" href="company.php">Click here to learn more about Chem-Stat!</a>
 				</p>
 			</header>
