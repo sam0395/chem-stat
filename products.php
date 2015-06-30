@@ -9,8 +9,8 @@
   if($category == "acids"){
     $productArr = ["Acetic Acid", "Ascorbic Acid", "Boric Acid", "Chromic Acid", "Citric Acid", "Hydrochloric Acid", "Muriatic Acid", "Nitric Acid", "Oleic Acid", "Oxalic Acid", "Phosphoric Acid", "Stearic Acid", "Sulfamic Acid", "Sulfuric Acid"];
   }else
-    if($category == "biodeisel"){
-    $productArr = ["Caustic Soda Beads", "Potasium Hydroxide", "Methanol"];
+    if($category == "biodiesel"){
+    $productArr = ["Caustic Soda Beads", "Potassium Hydroxide", "Methanol"];
     }else
       if($category == "soapMaking"){
       $productArr = ["Caustic Soda Beads", "Potassium Hydroxide"];
@@ -46,7 +46,7 @@
                                     $productArr = ["Ammonium Bicarbonate", "Ammonium Biflouride", "Ammonium Chloride", "Ammonium Persulfate", "Ammonium Hydroxide", "Aqua Ammonia"];
                                     }else
                                        if($category == "aromaticSolvents"){
-                                       $productArr = ["HiSol 10", "HiSol 15", "Toluene", "Xylene"];
+                                       $productArr = ["Hi Sol 10", "Hi Sol 15", "Toluene", "Xylene"];
                                        }else
                                           if($category == "calciumSalts"){
                                           $productArr = ["Calcium Carbonate", "Calcium Chloride", "Calcium Hydroxide"];
@@ -133,7 +133,7 @@
           <a href="products.php?cat=amines" class="list-group-item" <?php if($category == "amines"){echo "style = 'background-color: #bdbdbd'"; }?>>Amines</a>
           <a href="products.php?cat=ammoniumSalts" class="list-group-item" <?php if($category == "ammoniumSalts"){echo "style = 'background-color: #bdbdbd'"; }?>>Ammonium Salts</a>
           <a href="products.php?cat=aromaticSolvents" class="list-group-item" <?php if($category == "aromaticSolvents"){echo "style = 'background-color: #bdbdbd'"; }?>>Aromatic Solvents</a>
-          <a href="products.php?cat=biodeisel" class="list-group-item" <?php if($category == "biodeisel"){echo "style = 'background-color: #bdbdbd'"; }?>>Biodeisel</a>
+          <a href="products.php?cat=biodiesel" class="list-group-item" <?php if($category == "biodiesel"){echo "style = 'background-color: #bdbdbd'"; }?>>Biodiesel</a>
           <a href="products.php?cat=bleachingAgents" class="list-group-item" <?php if($category == "bleachingAgents"){echo "style = 'background-color: #bdbdbd'"; }?>>Bleaching Agents</a>
           <a href="products.php?cat=calciumSalts" class="list-group-item" <?php if($category == "calciumSalts"){echo "style = 'background-color: #bdbdbd'"; }?>>Calcium Salts</a>
           <a href="products.php?cat=chlorinatedSolvents" class="list-group-item" <?php if($category == "chlorinatedSolvents"){echo "style = 'background-color: #bdbdbd'"; }?>>Chlorinated Solvents</a>

@@ -132,9 +132,9 @@
                   Circuit Board Manufacturing,
 
                   Optical Industry, 
-                  Heating and Colling,
+                  Heating and Cooling,
 
-                  General Manufacruting, 
+                  General Manufacturing, 
                   General Maintenance,
 
                   Service Industry

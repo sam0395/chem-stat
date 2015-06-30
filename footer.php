@@ -33,7 +33,7 @@
 					<p><a href = "index.php">Home</p></a>
 					<p><a href = "products.php">Products</p></a>
 					<p><a href = "services.php">Services</p></a>
-					<p><a href = "company.php">Comapny</p></a>
+					<p><a href = "company.php">Company</p></a>
 					<p><a href = "contact.php">Contact Us</p></a>
 				</div>
 				
@@ -45,7 +45,7 @@
 				<div class="caption">
 					<br />
 					<p>Private Labeling</p>
-					<p>Specialized PAckaging</p>
+					<p>Specialized Packaging</p>
 					<p>Reagent and Food Grade Products</p> 
 					<p>Electronic Grade Products</p> 
 					<p>Delivery</p>

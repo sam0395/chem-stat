@@ -33,12 +33,12 @@
 		<div class="container">
 
 			<!-- Jumbotron Header -->
-			<header class="jumbotron hero-spacer">
+			<div class="jumbotron hero-spacer">
 				<h1>Our Mission is Simple:</h1>
 				<p>Our focus at Chem-Stat, Inc. is You, the customer. Our goal is to provide a service that is second to none within the chemical supply business. We are committed to meeting your industrial, laboratory, and scientific needs by offering competitive prices, quality service and technical support. We strive for our customers and vendors to recognize Chem-Stat as offering quality service, expertise and solutions for your business now and into the future. </p>
 				<p><a class="btn btn-primary btn-large" href="company.php">Click here to learn more about Chem-Stat!</a>
 				</p>
-			</header>
+			</div>
 
 			<hr>
 
@@ -57,7 +57,7 @@
 					<div class="thumbnail">
 						<img src="images/William.jpg" alt="">
 						<div class="caption">
-							<h3>William Cusik</h3>
+							<h3>Bill Cusick</h3>
 							<p></p>
 							<p>
 								<a href="company.php" class="btn btn-default">More Info</a>
@@ -83,7 +83,7 @@
 					<div class="thumbnail">
 						<img src="images/Lori.jpg" alt="">
 						<div class="caption">
-							<h3>Lori Cusik</h3>
+							<h3>Lori Cusick</h3>
 							<p></p>
 							<p>
 								<a href="company.php" class="btn btn-default">More Info</a>

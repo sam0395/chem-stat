@@ -39,7 +39,7 @@
 
     <!-- Jumbotron Header -->
     <header class="jumbotron hero-spacer">
-      <h1>We Guarentee Quality Service</h1>
+      <h1>We Guarantee Quality Service</h1>
       <p>Many services that Chem-Stat provides are listed below. It is our goal to fit all company needs, and we will try our hardest to bring your request to life. </p>
       
     </p>
@@ -56,7 +56,7 @@
             <div class="col-sm-12">
                
                 <p><h3>Hazardous Waste Management</h3></p>  
-                <p><h3>Environmental Regualtions</h3></p> 
+                <p><h3>Environmental Regulations</h3></p> 
                 <p><h3>Safety/DOT Regulations</h3></p> 
                 <p><h3>Formulations and Blending</h3></p> 
                 
