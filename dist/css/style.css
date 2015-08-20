@@ -145,14 +145,15 @@ body{
 }
 
 #footer {
-	color: #028482;
-	background: #4d4d4d  ;
-	min-height: 200px;
+	color: white;
+	background-color: rgba(0,0,0,0.6);
 	font-weight: bold;
 }
 
-#footer a {
-	color: #028482;
+
+
+#footer a{
+	color: white;
 	text-decoration: underline;
 }
 /*

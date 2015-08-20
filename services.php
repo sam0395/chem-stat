@@ -2,28 +2,7 @@
 
 
 
-<html>
-<head>
-  <title>Chem-Stat, Inc.&nbsp; Chemicals, Solvents and Environmental and Safety Assistance</title>
-  <link rel="stylesheet" type="text/css" href="dist/css/bootstrap.css">
-  <link rel="stylesheet" type="text/css" href="dist/css/style.css">
-  <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-  
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-  
-  <script type="text/javascript" src="dist/js/bootstrap.js"></script>
-  <script src="dist/js/smooth-scroll.min.js"></script>
 
-  <script type="text/javascript"
-  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDwW1b8Kj3xxjxE7aEeCvAAbMRpoN1rJOA">
-  </script>
-  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp">
-  </script>
-
-
-</head>
-
-<body>
   
  <?php
  include('nav.php');
